@@ -1,0 +1,9 @@
+altgraph==0.17.4
+litemapy==0.8.1b0
+macholib==1.16.3
+nbtlib==2.0.4
+numpy==1.26.4
+packaging==24.0
+pyinstaller==6.5.0
+pyinstaller-hooks-contrib==2024.3
+setuptools==69.2.0
